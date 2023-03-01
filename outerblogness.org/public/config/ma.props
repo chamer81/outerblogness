@@ -1,0 +1,4 @@
+summaryLength=250
+channelSliceSize=43
+feedSortSliceSize=3
+cacheDirectory=./cache

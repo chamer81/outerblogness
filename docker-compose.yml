@@ -1,0 +1,9 @@
+version: '3.3'
+
+services:
+  outerblogness:
+    image: chamer81/outerblogness
+    restart: always
+    ports:
+      - "8012:80"
+
