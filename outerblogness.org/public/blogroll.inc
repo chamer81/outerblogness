@@ -1,5 +1,4 @@
 <li><a href="http://abev.wordpress.com/">a bird's eye view</a></li>
-<li><a href="http://masonisfree.blogspot.com/">A Breach of Reverence</a></li>
 <li><a href="http://rachelg1016.blogspot.com/">A Comedienne's Sidekick</a></li>
 <li><a href="http://adizzylife.blogspot.com/">a dizzy life</a></li>
 <li><a href="http://agaymormonboy.blogspot.com/">A Gay Mormon Boy</a></li>
@@ -15,7 +14,6 @@
 <li><a href="http://acranberryblog.blogspot.com/">Aerin's Cranberry Blog</a></li>
 <li><a href="http://questioningthechurch.blogspot.com">Against the Greater Light</a></li>
 <li><a href="http://aintnomonomo.blogspot.com/">Aint No Mo No Mo</a></li>
-<li><a href="http://www.agnosticmom.com/">Agnostic Mom</a></li>
 <li><a href="http://agnosticmormon.blogspot.com/">Agnostic Mormon</a></li>
 <li><a href="http://aintnomonomo.wordpress.com/">aintnomonomo</a></li>
 <li><a href="http://agnosticmormon.livejournal.com/">almost pretty</a></li>
@@ -38,7 +36,6 @@
 <li><a href="http://www.urbankoda.com/">Being the Urban Koda</a></li>
 <li><a href="http://blbbj.blogspot.com/">Ben &amp; Lori</a></li>
 <li><a href="http://www.blakeclan.org/jon/canvas/">Blank Canvas</a></li>
-<li><a href="http://maggierayner.com/blog/">Blog &#8211; Maggie Rayner</a></li>
 <li><a href="http://www.churchistrue.com/blog">Blog - LDS Church is True Blog</a></li>
 <li><a href="http://kaylanamars.blogspot.com/">Blogging Beyond Belief</a></li>
 <li><a href="http://jsethanderson.com/">Boy Meets Blog</a></li>
@@ -56,7 +53,6 @@
 <li><a href="http://www.chinoblanco.com/">Chino Blanco</a></li>
 <li><a href="http://chriscarrollsmith.blogspot.com/">Chris Smith's Carrel</a></li>
 <li><a href="http://latterdayspence.blogspot.com">Clean Cut</a></li>
-<li><a href="http://www.clobberblog.com/">ClobberBlog</a></li>
 <li><a href="http://nowcoffeenow.blogspot.com/">Coffee Now</a></li>
 <li><a href="http://acoward.blogspot.com/">Confessions of an Anonymous Coward</a></li>
 <li><a href="http://icookstuff.wordpress.com/">Cooking Stuff | Where Stuff Is Cooked</a></li>
@@ -64,7 +60,6 @@
 <li><a href="http://culturalmormoncafeteria.blogspot.com/">Cultural Mormon Cafeteria</a></li>
 <li><a href="http://curie-us.blogspot.com/">Curie-Us</a></li>
 <li><a href="http://cuzthatshowiroll.blogspot.com/">cuz that's how i roll</a></li>
-<li><a href="http://www.cvrick.com/cv_rick/">CV Rick</a></li>
 <li><a href="http://dadsprimalscream.wordpress.com/">Dad's Primal Scream Blog</a></li>
 <li><a href="http://dancingwithemilypearson.blogspot.com">Dancing With Emily</a></li>
 <li><a href="http://dangerousandtrue.blogspot.com/">Dangerous and True</a></li>
@@ -78,7 +73,6 @@
 <li><a href="http://www.dooce.com/">Dooce</a></li>
 <li><a href="http://www.dovesandserpents.org/wp/">Doves and Serpents</a></li>
 <li><a href="http://entreated.blogspot.com/">Easy to be Entreated</a></li>
-<li><a href="http://edith-marieroper.com/">Edith-Marie Roper</a></li>
 <li><a href="http://www.eighthourlunch.com/">Eight Hour Lunch</a></li>
 <li><a href="http://elnabaker.blogspot.com/">Elnabaker.com</a></li>
 <li><a href="http://emergingfromtheashes.blogspot.com/">emerging from the ashes</a></li>
@@ -95,9 +89,7 @@
 <li><a href="http://exmormonhymnbook.blogspot.com">ExMormon Hymn Book</a></li>
 <li><a href="http://www.experttextperts.com/">Expert Textperts</a></li>
 <li><a href="http://www.exploringmormonism.com/">Exploring Mormonism | Delving into the interesting bits about any religion to stem from Joseph Smith Jr.</a></li>
-<li><a href="http://www.the-exponent.com/">Exponent II</a></li>
 <li><a href="http://facsimilogos.blogspot.com/">Facsimilogos</a></li>
-<li><a href="http://feastuponthewordblog.org/">Feast upon the Word Blog</a></li>
 <li><a href="http://www.feministmormonhousewives.org/">Feminist Mormon Housewives</a></li>
 <li><a href="http://feministeconomist.blogspot.com/">Feminist, Economist</a></li>
 <li><a href="http://galendara.blogspot.com/">figuring it out...</a></li>
@@ -127,10 +119,10 @@
 <li><a href="http://said-he-she.blogspot.com/">He Said/She Said</a></li>
 <li><a href="http://heraldmagazine.wordpress.com/">Herald Magazine</a></li>
 <li><a href="http://happyexmo.blogspot.com/">HH's place</a></li>
-<li><a href="http://kolobiv.blogspot.com/">Hieing to Kolob</a></li>
 <li><a href="http://honestirreligion.blogspot.com/">Honest Irreligion</a></li>
 <li><a href="http://hopeispower.wordpress.com/">Hope Is Power</a></li>
 <li><a href="http://gayhurricane.blogspot.com/">HURRICANE</a></li>
+<li><a href="http://kolobiv.blogspot.com/">Hieing to Kolob</a></li>
 <li><a href="http://surelyyourenotserious.blogspot.com">I am serious... And don't call me Shirley!</a></li>
 <li><a href="http://ilovemormons.wordpress.com/">I Love Mormons</a></li>
 <li><a href="http://iwasabyuatheist.blogspot.com/">I Was a BYU Atheist</a></li>
@@ -150,10 +142,8 @@
 <li><a href="http://justacrown.blogspot.com/">Just a Crown</a></li>
 <li><a href="http://justmeasiam.blogspot.com/">Just Me, As I Am</a></li>
 <li><a href="http://annegb-justsayin.blogspot.com/">Just Sayin'</a></li>
-<li><a href="http://www.keylimepiety.com/">Key Lime Piety</a></li>
 <li><a href="http://kittendownunder.blogspot.com/">kittenDownUnder</a></li>
 <li><a href="http://kmabom.wordpress.com/">KMA Book of Mormon</a></li>
-<li><a href="http://www.kodathink.com/">Koda Think Tank</a></li>
 <li><a href="http://kokaubeam.blogspot.com/">Kokaubeam voices</a></li>
 <li><a href="http://kolob-disco.blogspot.com/">KOLOB DISCO</a></li>
 <li><a href="http://www.kolob-disco.blogspot.com/">Kolob Disco</a></li>
@@ -164,7 +154,6 @@
 <li><a href="http://ldsdebate.blogspot.com">LDS Debate</a></li>
 <li><a href="http://ldsearthstewardship.org/">LDS Earth Stewardship</a></li>
 <li><a href="http://stakepresident.blogspot.com/">LDS (Mormon) Stake Presidents Blog</a></li>
-<li><a href="http://blog.mediumcouncil.org/">LDS Stake Medium Council</a></li>
 <li><a href="http://licketylemon.blogspot.com/">Lemony Thoughts</a></li>
 <li><a href="http://bradhg.blogspot.com/">Let Me Say This About That...</a></li>
 <li><a href="http://lfab-uvm.blogspot.com/">Letters from a broad</a></li>
@@ -176,8 +165,6 @@
 <li><a href="http://liminalblather.blogspot.com/">Liminal Blather</a></li>
 <li><a href="http://lindsayblogland.blogspot.com/">Lindsay in Blogland</a></li>
 <li><a href="http://ohraps.blogspot.com/">Lindsay's Absurd Blurbs</a></li>
-<li><a href="http://livingwithmormons.com/">Living With Mormons</a></li>
-<li><a href="http://lizeverything.com/">lizeverything | All things according to Liz Emery</a></li>
 <li><a href="http://luciddreamerblog.blogspot.com/">Lucid Dreamer</a></li>
 <li><a href="http://www.lumanwalters.blogspot.com">Luman Walters</a></li>
 <li><a href="http://mainstreetplaza.com/">Main Street Plaza</a></li>
@@ -211,14 +198,12 @@
 <li><a href="http://www.millennialstar.org/">Millennial Star</a></li>
 <li><a href="http://www.mindonfire.com/">mind on fire</a></li>
 <li><a href="http://minusreligion.blogspot.com">minus religion</a></li>
-<li><a href="http://www.moesey.com/">moesey</a></li>
 <li><a href="http://mohohawaii.blogspot.com/">MoHoHawaii</a></li>
 <li><a href="http://mollymuses.wordpress.com/">Molly Muses</a></li>
 <li><a href="http://mollythemormon.blogspot.com/">Molly The Mormon</a></li>
 <li><a href="http://montgomeryq.blogspot.com/">Montgomery Q - The Saga</a></li>
 <li><a href="http://mormon2catholic.blogspot.com/">Mormon 2 Catholic</a></li>
 <li><a href="http://mormonblogosphere.blogspot.com/">Mormon Blogosphere</a></li>
-<li><a href="http://blog.mrm.org/">Mormon Coffee</a></li>
 <li><a href="http://correlationism.wordpress.com/">Mormon Correlation Studies</a></li>
 <li><a href="http://mormondisclosures.blogspot.com">Mormon Disclosures</a></li>
 <li><a href="http://mormondoubter.blogspot.com">Mormon Doubter</a></li>
@@ -228,11 +213,9 @@
 <li><a href="http://www.mormoninfographics.com">Mormon Infographics</a></li>
 <li><a href="http://mormonreformation.blogspot.com">Mormon Reformation</a></li>
 <li><a href="http://mormontruth.blogspot.com/">Mormon Truth!!</a></li>
-<li><a href="http://mormanity.blogspot.com/">Mormanity</a></li>
 <li><a href="http://mormon411.blogspot.com/">Mormon411</a></li>
 <li><a href="http://mormonismschism.blogspot.com/">Mormonism Schism</a></li>
 <li><a href="http://daymonsmith.wordpress.com">Mormonism Uncorrelated</a></li>
-<li><a href="http://mormonitemusings.com">Mormonite Musings | History, Doctrine &amp; Art by grindæl</a></li>
 <li><a href="http://murphymaphia.com/">Murphy Maphia</a></li>
 <li><a href="http://musingsofalickedcupcake.blogspot.com/">Musings of A Licked Cupcake</a></li>
 <li><a href="http://musingsonthemayhem.squarespace.com/">Musings on the Mayhem</a></li>
@@ -243,14 +226,11 @@
 <li><a href="http://shell-mysecretgarden.blogspot.com/">My Secret Garden</a></li>
 <li><a href="http://descentintonihilism.blogspot.com/">No Answers</a></li>
 <li><a href="http://noahismyhomeboy.wordpress.com/">Noah Is My Homeboy | A Blog by James Ussher, Bishop of the Los Alamos, New Mexico Ward</a></li>
-<li><a href="http://blog.nocoolnametom.com/">NoCoolName Blog</a></li>
 <li><a href="http://mormonmisadventures.blogspot.com/">Not So Usual</a></li>
 <li><a href="http://notveryusefultruths.blogspot.com/">Not Very Useful Truths</a></li>
 <li><a href="http://jackmormon.blogspot.com/">Not Yet Enlightened</a></li>
 <li><a href="http://notamormon.blogspot.com/">Notamormon</a></li>
 <li><a href="http://notknowingbeforehand.wordpress.com/">notknowingbeforehand</a></li>
-<li><a href="http://prideinutah.com/">Nuance Still Matters</a></li>
-<li><a href="http://www.offthechest.net/">Off The Chest</a></li>
 <li><a href="http://ohjoyitsme.blogspot.com/">Oh, Joy! It's Me</a></li>
 <li><a href="http://dcrushhour.blogspot.com/">On Rush Hour in D.C.</a></li>
 <li><a href="http://onebrokenoff.blogspot.com/">One Broken Off</a></li>
@@ -266,7 +246,6 @@
 <li><a href="http://www.philocrites.com/">Philocrates</a></li>
 <li><a href="http://cosmophilosophy.blogspot.com/">Philosophy and Polygamy:   Ins and Outs in My Life</a></li>
 <li><a href="http://nomdebiro.blogspot.com/">Picaresque</a></li>
-<li><a href="http://www.poetrysansonions.com">Poetry Sans Onions</a></li>
 <li><a href="http://polyamorymom.blogspot.com/">POLY MOM</a></li>
 <li><a href="http://mormonhair.tumblr.com/">polygamy chic</a></li>
 <li><a href="http://questioninglds.blogspot.com/">Post Mormon</a></li>
@@ -296,7 +275,6 @@
 <li><a href="http://www.pixlee.net/">Sasha Pixlee</a></li>
 <li><a href="http://savingmyselfreally.blogspot.com/">Saving Myself...Really</a></li>
 <li><a href="http://scarletcoloredglasses.blogspot.com/">Scarlet's Letters</a></li>
-<li><a href="http://www.prisonerofzion.com/">Scott Carrier</a></li>
 <li><a href="http://scrumcentral.blogspot.com/">Scrum Central</a></li>
 <li><a href="http://www.secretunderpants.com/">Secret Underpants</a></li>
 <li><a href="http://seekingdesideratum.blogspot.com/">Seeking Desideratum</a></li>
@@ -320,7 +298,6 @@
 <li><a href="http://theresedoucet.wordpress.com/">Strange Violin Music</a></li>
 <li><a href="http://successwarrior.typepad.com/success_warrior_blog/">Success Warrior</a></li>
 <li><a href="http://sumwun.blogspot.com/">Sumwun</a></li>
-<li><a href="http://www.sunstonescafe.com/">Sunstone's Café</a></li>
 <li><a href="http://straightspouses.org/">Supportive Straight Spouses</a></li>
 <li><a href="http://swearingelders.blogspot.com/">Swearing Elders</a></li>
 <li><a href="http://tbachman.blogspot.com/">Tal Bachman in a World Gone Mad</a></li>
@@ -335,11 +312,9 @@
 <li><a href="http://thecerebralowl.blogspot.com/">The Cerebral Owl</a></li>
 <li><a href="http://tewkesbury-chronicles.blogspot.com/">The Chronicles of Tewkesbury</a></li>
 <li><a href="http://counterfeitskeptist.blogspot.com/">the Counterfeit Skeptist</a></li>
-<li><a href="http://divinemojo.com/private_blog/">The Crone Diaries</a></li>
 <li><a href="http://joeyandstefi.blogspot.com/">joeyandstefi</a></li>
 <li><a href="http://thefaithfuldissident.blogspot.com">The Faithful Dissident</a></li>
 <li><a href="http://jakeinvirginia.blogspot.com/">The Falcon and the Hedgehog</a></li>
-<li><a href="http://www.thefledglingstale.com/">The Fledgling's Tale</a></li>
 <li><a href="http://the-fork.blogspot.com/">The Fork in the Road</a></li>
 <li><a href="http://fstops-here.blogspot.com/">The F-Stops Here...</a></li>
 <li><a href="http://thegaydot.blogspot.com/">The Gay Dot</a></li>
@@ -351,14 +326,12 @@
 <li><a href="http://thelifeiimagine.blogspot.com/">The Life I Imagine</a></li>
 <li><a href="http://alexisar.blogspot.com">The Many Banes of My Existence by Alexis</a></li>
 <li><a href="http://mormonchildbride.blogspot.com/">The Mormon Child Bride</a></li>
-<li><a href="http://www.mormoncurtain.com/">The Mormon Curtain</a></li>
 <li><a href="http://pixarlostandgospelohmy.blogspot.com/">The Musings of Holmeslice</a></li>
 <li><a href="http://themuttsnuts.wordpress.com/">The Mutt's Nuts</a></li>
 <li><a href="http://theneanderthaldiaries.blogspot.com/">The Neanderthal Diaries</a></li>
 <li><a href="http://anachronologist.livejournal.com/">The New abNormal</a></li>
 <li><a href="http://aurorabranch.blogspot.com/">The Old Aurora Branch</a></li>
 <li><a href="http://dysfunctional-olive-tree.blogspot.com/">The Olive Tree</a></li>
-<li><a href="http://www.thepeacewriter.com/">the peacewriter</a></li>
 <li><a href="http://thepointofthejourney.blogspot.com">The Point Of The Journey Is Not To Arrive</a></li>
 <li><a href="http://postmormon.blogspot.com/">The Post-Mormon Perspective</a></li>
 <li><a href="http://religious-atheist.blogspot.com/">The Religious Atheist</a></li>
@@ -373,11 +346,9 @@
 <li><a href="http://thewriteauthority.wordpress.com">The Write Authority | 4 out of 5 dentists recommend this WordPress.com site</a></li>
 <li><a href="http://sistermarylisa.blogspot.com/">Thoughts by Sister Mary Lisa</a></li>
 <li><a href="http://mormonthoughtspots.blogspot.com">Thoughts by Steph</a></li>
-<li><a href="http://thoughtsonthingsandstuff.com/">Thoughts on Things and Stuff | I&#039;ve got an idea forming on the inside of my brain!</a></li>
 <li><a href="http://thoughtspercoffee2.blogspot.com">Thoughts per Coffee</a></li>
 <li><a href="http://tinseleffect.blogspot.com/">Tinsel Effect</a></li>
 <li><a href="http://rogerdhansen.wordpress.com/">Tired Road Warrior</a></li>
-<li><a href="http://www.totryanewsword.com/">To Try a New Sword on a Chance Wayfarer</a></li>
 <li><a href="http://toddshammer.wordpress.com/">Todd's Hammer</a></li>
 <li><a href="http://beaniecapguy.typepad.com/">Tom Clark - Photographer</a></li>
 <li><a href="http://toxic-shock.blogspot.com/">Toxic Shock Syndrome</a></li>
@@ -410,11 +381,12 @@
 <li><a href="http://wmjas.blogspot.com/">Wm Jas</a></li>
 <li><a href="http://amjunus.blogspot.com">Woman At the Well</a></li>
 <li><a href="http://workman.blogspot.com/">Workman's Waste of Time</a></li>
-<li><a href="http://www.withoutend.org/">Worlds Without End</a></li>
 <li><a href="http://writeonthrough.blogspot.com/">Write On Through [to the other side]</a></li>
 <li><a href="http://wrycatcher.wordpress.com/">wry catcher</a></li>
 <li><a href="http://pixelfish.livejournal.com/">Ye Olde Happy Cannibals Society For People Of Good Taste</a></li>
 <li><a href="http://youngmormonfeminists.org/">Young Mormon Feminists</a></li>
 <li><a href="http://zelophehadsdaughters.com/">Zelophehad&#8217;s Daughters</a></li>
-<li><a href="http://zelphontheshelf.com/">Zelph on the Shelf</a></li>
 <li><a href="http://lostfaithnewhope.blogspot.com/">{Lost Faith} New Hope</a></li>
+<li><a href="https://www.arisefromthedust.com/">Arise from the Dust</a></li>
+<li><a href="http://mormonblogosphere.blogspot.com/">Mormon Blogosphere</a></li>
+<li><a href="https://wasmormon.org">wasmormon.org - Faith Crisis Stories From Ex-Mormons</a></li>
