@@ -8,6 +8,7 @@
 <li><a href="http://www.motleyvision.org/">A Motley Vision</a></li>
 <li><a href="http://mormonthinkblog2012.blogspot.com">A Paisley Perestroika</a></li>
 <li><a href="http://postmormongirl.blogspot.com/">A POST-MORMON LIFE</a></li>
+<li><a href="https://www.arisefromthedust.com/">Arise from the Dust</a></li>
 <li><a href="http://typicalmormonmoms.blogspot.com">A-Typical Mormon Moms</a></li>
 <li><a href="http://adultonsetatheist.blogspot.com/">Adult Onset Atheist</a></li>
 <li><a href="http://exvestigator.blogspot.com/">Adventures in Mediocrity</a></li>
@@ -165,6 +166,7 @@
 <li><a href="http://liminalblather.blogspot.com/">Liminal Blather</a></li>
 <li><a href="http://lindsayblogland.blogspot.com/">Lindsay in Blogland</a></li>
 <li><a href="http://ohraps.blogspot.com/">Lindsay's Absurd Blurbs</a></li>
+<li><a href="http://lostfaithnewhope.blogspot.com/">{Lost Faith} New Hope</a></li>
 <li><a href="http://luciddreamerblog.blogspot.com/">Lucid Dreamer</a></li>
 <li><a href="http://www.lumanwalters.blogspot.com">Luman Walters</a></li>
 <li><a href="http://mainstreetplaza.com/">Main Street Plaza</a></li>
@@ -365,6 +367,7 @@
 <li><a href="http://walterkirn.blogspot.com/">Walter Kirn's Permanent Morning</a></li>
 <li><a href="http://wardgossip.blogspot.com/">Ward Gossip</a></li>
 <li><a href="http://wasillaalaskaby300.squarespace.com/">Wasilla, Alaska, by 300</a></li>
+<li><a href="https://wasmormon.org">wasmormon.org - Faith Crisis Stories From Ex-Mormons</a></li>
 <li><a href="http://weweregoingtobequeens.blogspot.com/">We Were Going To Be Queens</a></li>
 <li><a href="http://weirdcrap123.blogspot.com">Weird Crap From an Insomniac</a></li>
 <li><a href="http://weirdmormonshit.tumblr.com/">weird mormon shit</a></li>
@@ -386,7 +389,3 @@
 <li><a href="http://pixelfish.livejournal.com/">Ye Olde Happy Cannibals Society For People Of Good Taste</a></li>
 <li><a href="http://youngmormonfeminists.org/">Young Mormon Feminists</a></li>
 <li><a href="http://zelophehadsdaughters.com/">Zelophehad&#8217;s Daughters</a></li>
-<li><a href="http://lostfaithnewhope.blogspot.com/">{Lost Faith} New Hope</a></li>
-<li><a href="https://www.arisefromthedust.com/">Arise from the Dust</a></li>
-<li><a href="http://mormonblogosphere.blogspot.com/">Mormon Blogosphere</a></li>
-<li><a href="https://wasmormon.org">wasmormon.org - Faith Crisis Stories From Ex-Mormons</a></li>
