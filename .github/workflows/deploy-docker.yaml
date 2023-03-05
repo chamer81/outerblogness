@@ -53,8 +53,8 @@ jobs:
 
         # copy the deploy script to the server
         scp -i ./id_ed25519 -o StrictHostKeyChecking=no deploy.sh chanson@outerblogness.org:/home/chanson/phpwebsites/deploy.sh
-        ssh -i ./id_ed25519 -o StrictHostKeyChecking=no chanson@outerblogness.org -c "chmod a+x /home/chanson/phpwebsites/deploy.sh"
+        ssh -i ./id_ed25519 -o StrictHostKeyChecking=no chanson@outerblogness.org "chmod a+x /home/chanson/phpwebsites/deploy.sh"
 
         # run the deploy script to update the docker image on the server
-        ssh -i ./id_ed25519 -o StrictHostKeyChecking=no chanson@outerblogness.org -c "cd /home/chanson/phpwebsites ; ./deploy.sh &"
+        ssh -i ./id_ed25519 -o StrictHostKeyChecking=no chanson@outerblogness.org "cd /home/chanson/phpwebsites ; ./deploy.sh &"
 
