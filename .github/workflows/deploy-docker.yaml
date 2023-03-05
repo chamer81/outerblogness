@@ -46,7 +46,7 @@ jobs:
         echo "docker-compose down" > deploy.sh
         # change the outerblogness image in the docker-compose file to match the newly-built image:
         echo "sed -i ${SINGLEQUOTE}s|chamer81/outerblogness.*$|chamer81/outerblogness:$GITHUB_SHA|${SINGLEQUOTE} docker-compose.yml" >> deploy.sh
-        echo "docker-compose up &" >> deploy.sh
+        echo "docker-compose up --detach" >> deploy.sh
 
         # output the script to confirm it is correct:
         cat deploy.sh
@@ -59,5 +59,5 @@ jobs:
         ssh -i ./id_ed25519 -o StrictHostKeyChecking=no chanson@outerblogness.org "chmod a+x /home/chanson/phpwebsites/deploy.sh"
 
         # run the deploy script to update the docker image on the server
-        ssh -i ./id_ed25519 -o StrictHostKeyChecking=no chanson@outerblogness.org "cd /home/chanson/phpwebsites ; ./deploy.sh &"
+        ssh -i ./id_ed25519 -o StrictHostKeyChecking=no chanson@outerblogness.org "cd /home/chanson/phpwebsites ; ./deploy.sh"
 
