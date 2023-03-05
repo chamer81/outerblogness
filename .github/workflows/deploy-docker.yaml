@@ -35,9 +35,8 @@ jobs:
     # Add ssh key
     - name: Add ssh key
       run: |-
-        mkdir ~/.ssh
-        echo "${{ secrets.ID_ED25519 }}" | ~/.ssh/id_ed25519
-        chmod 400 ~/.ssh/id_ed25519
+        echo "${{ secrets.ID_ED25519 }}" > ./id_ed25519
+        chmod 400 ./id_ed25519
 
     # Deploy the Docker image to the server
     # in progress
@@ -54,9 +53,9 @@ jobs:
         cat deploy.sh
 
         # copy the deploy script to the server
-        scp -o StrictHostKeyChecking=no deploy.sh chanson@outerblogness.org:/home/chanson/phpwebsites/deploy.sh
-        ssh -o StrictHostKeyChecking=no chanson@outerblogness.org -c "chmod a+x /home/chanson/phpwebsites/deploy.sh"
+        scp -i ./id_ed25519 -o StrictHostKeyChecking=no deploy.sh chanson@outerblogness.org:/home/chanson/phpwebsites/deploy.sh
+        ssh -i ./id_ed25519 -o StrictHostKeyChecking=no chanson@outerblogness.org -c "chmod a+x /home/chanson/phpwebsites/deploy.sh"
 
         # run the deploy script to update the docker image on the server
-        ssh -o StrictHostKeyChecking=no chanson@outerblogness.org -c "cd /home/chanson/phpwebsites ; ./deploy.sh &"
+        ssh -i ./id_ed25519 -o StrictHostKeyChecking=no chanson@outerblogness.org -c "cd /home/chanson/phpwebsites ; ./deploy.sh &"
 
