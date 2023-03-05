@@ -39,7 +39,6 @@ jobs:
         chmod 400 ./id_ed25519
 
     # Deploy the Docker image to the server
-    # in progress
     - name: Deploy
       run: |-
         # create the deployment script
