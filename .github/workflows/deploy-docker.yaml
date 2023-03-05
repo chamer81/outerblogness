@@ -1,0 +1,62 @@
+name: Deploy Docker
+
+on:
+  workflow_dispatch:
+
+jobs:
+  setup-build-publish-deploy:
+    name: Setup, Build, Publish, and Deploy
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout
+      uses: actions/checkout@v2
+
+    # Build the Docker image
+    - name: Build
+      run: |-
+        docker build \
+          --tag "chamer81/outerblogness:$GITHUB_SHA" \
+          --build-arg GITHUB_SHA="$GITHUB_SHA" \
+          --build-arg GITHUB_REF="$GITHUB_REF" \
+          .
+
+    # log in to docker hub
+    - name: Authenticate
+      run: |-
+        echo "${{ secrets.DOCKER_HUB_TOKEN }}" | docker login --username chamer81 --password-stdin
+
+    # Push the Docker image to Docker Hub
+    - name: Publish
+      run: |-
+        echo docker push "chamer81/outerblogness:$GITHUB_SHA"
+        docker push "chamer81/outerblogness:$GITHUB_SHA"
+
+    # Add ssh key
+    - name: Add ssh key
+      run: |-
+        mkdir ~/.ssh
+        echo "${{ secrets.ID_ED25519 }}" | ~/.ssh/id_ed25519
+        chmod 400 ~/.ssh/id_ed25519
+
+    # Deploy the Docker image to the server
+    # in progress
+    - name: Deploy
+      run: |-
+        # create the deployment script
+        SINGLEQUOTE=\'
+        echo "docker-compose down" > deploy.sh
+        # change the outerblogness image in the docker-compose file to match the newly-built image:
+        echo "sed -i ${SINGLEQUOTE}s|chamer81/outerblogness.*$|chamer81/outerblogness:$GITHUB_SHA|${SINGLEQUOTE} docker-compose.yml" >> deploy.sh
+        echo "docker-compose up" >> deploy.sh
+
+        # output the script to confirm it is correct:
+        cat deploy.sh
+
+        # copy the deploy script to the server
+        scp -o StrictHostKeyChecking=no deploy.sh chanson@outerblogness.org:/home/chanson/phpwebsites/deploy.sh
+        ssh -o StrictHostKeyChecking=no chanson@outerblogness.org -c "chmod a+x /home/chanson/phpwebsites/deploy.sh"
+
+        # run the deploy script to update the docker image on the server
+        ssh -o StrictHostKeyChecking=no chanson@outerblogness.org -c "cd /home/chanson/phpwebsites ; ./deploy.sh &"
+

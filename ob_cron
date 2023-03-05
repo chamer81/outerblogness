@@ -1,0 +1,7 @@
+# refresh aggregator posts
+55 * * * * /usr/local/bin/refresh_posts.sh
+# refresh aggregator comments
+*/5 * * * * /usr/local/bin/refresh_comments.sh
+# get rid of old stuff in the cache
+* * 1 * * /usr/local/bin/cleanCache.sh
+# done
