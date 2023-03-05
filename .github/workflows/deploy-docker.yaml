@@ -1,0 +1,39 @@
+name: Deploy Docker
+
+on:
+  workflow_dispatch:
+
+jobs:
+  setup-build-publish-deploy:
+    name: Setup, Build, Publish, and Deploy
+    runs-on: ubuntu-latest
+    environment: ${{ github.event.inputs.devStagingProd }}
+
+    steps:
+    - name: Checkout
+      uses: actions/checkout@v2
+
+    # Build the Docker image
+    - name: Build
+      run: |-
+        docker build \
+          --tag "chamer81/outerblogness:$GITHUB_SHA" \
+          --build-arg GITHUB_SHA="$GITHUB_SHA" \
+          --build-arg GITHUB_REF="$GITHUB_REF" \
+          .
+
+    # Authenticate to docker hub
+    # in progress
+
+    # Push the Docker image to Docker Hub
+    - name: Publish
+      run: |-
+        echo docker push "chamer81/outerblogness:$GITHUB_SHA"
+        docker push "chamer81/outerblogness:$GITHUB_SHA"
+
+    # Deploy the Docker image to the server
+    # in progress
+    - name: Deploy
+      run: |-
+        ssh github@outerblogness.org -c ""
+

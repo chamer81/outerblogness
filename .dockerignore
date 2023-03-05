@@ -1,0 +1,5 @@
+# ignore the python tools (meant to be run manually)
+blogupdater
+
+docker-compose.yaml
+REASME.md

@@ -5,7 +5,7 @@
 FROM debian:8
 
 RUN apt-get update; \
-    apt-get install -y \
+    apt-get install -y --force-yes \
     nginx \
     php5-fpm \
     php5-cli \
