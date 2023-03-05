@@ -46,7 +46,7 @@ jobs:
         echo "docker-compose down" > deploy.sh
         # change the outerblogness image in the docker-compose file to match the newly-built image:
         echo "sed -i ${SINGLEQUOTE}s|chamer81/outerblogness.*$|chamer81/outerblogness:$GITHUB_SHA|${SINGLEQUOTE} docker-compose.yml" >> deploy.sh
-        echo "docker-compose up" >> deploy.sh
+        echo "docker-compose up &" >> deploy.sh
 
         # output the script to confirm it is correct:
         cat deploy.sh
