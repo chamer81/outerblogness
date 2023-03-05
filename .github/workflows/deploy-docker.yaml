@@ -38,8 +38,8 @@ jobs:
         echo "${{ secrets.ID_ED25519 }}" > ./id_ed25519
         chmod 400 ./id_ed25519
 
-    # Deploy the Docker image to the server
-    - name: Deploy
+    # Create the deploy script
+    - name: Make script
       run: |-
         # create the deployment script
         SINGLEQUOTE=\'
@@ -51,6 +51,9 @@ jobs:
         # output the script to confirm it is correct:
         cat deploy.sh
 
+    # Deploy the Docker image to the server
+    - name: Deploy
+      run: |-
         # copy the deploy script to the server
         scp -i ./id_ed25519 -o StrictHostKeyChecking=no deploy.sh chanson@outerblogness.org:/home/chanson/phpwebsites/deploy.sh
         ssh -i ./id_ed25519 -o StrictHostKeyChecking=no chanson@outerblogness.org "chmod a+x /home/chanson/phpwebsites/deploy.sh"
