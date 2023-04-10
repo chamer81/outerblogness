@@ -9,6 +9,9 @@ COPY sources.list /etc/apt/sources.list
 RUN apt-get -o Acquire::Check-Valid-Until=false update; \
     apt-get install -y --force-yes \
     nginx \
+    phpapi-20131226 \
+    php5-commmon \
+    php5-json \
     php5-fpm \
     php5-cli \
     cron
